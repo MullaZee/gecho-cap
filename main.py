@@ -12,7 +12,7 @@ REMOVE_WORDS = [
     'R∆G∆ ', 'join', 'Telly', 'https', 'http', 'Full Bollywood Movie', 'Bollywood', 'ViSTA', 'MoviesMod',
     '(Mᴏᴏɴ Kɴɪɢʜᴛ)', 'L3G3N7', 'telegram', 'm2links', "join us", "Join Us", "t.me", "mkvcinemas",
     "moviesmod", "moviesflix", "Desiremovies", "mkvc", "cinevood", "@m2links", "skymovieshd", "(dedsincebirth)",
-    "Full", "MoviesUP", "Hollywood", "4kHdHub","CrickeTLoveRR", "Mᴏᴏɴ Kɴɪɢʜᴛ", "ExtraFlix", "R3∆LR¢B", "Spidey", "Dual Audio", "HDHub4u", "PrimeFix", "email"
+    "Full", "K☈N", "Ospreay", "MoviesUP", "Hollywood", "4kHdHub","CrickeTLoveRR", "Mᴏᴏɴ Kɴɪɢʜᴛ", "ExtraFlix", "R3∆LR¢B", "Spidey", "Dual Audio", "HDHub4u", "PrimeFix", "email"
 ]
 
 def clean_caption(caption: str) -> str:
